@@ -1,0 +1,15 @@
+CHAPITRE 1 : PRÉSENTATION DE L’ENTREPRISE TRANSWIN LOGISTICS SOLUTIONS ET DU CADRE GÉNÉRAL DU STAGE
+
+INTRODUCTION
+
+Avant d'aborder les aspects techniques et conceptuels du projet TRANSWIN e-OM, il est primordial de définir l'environnement au sein duquel ce travail a été réalisé. Ce premier chapitre est dédié à la présentation détaillée de TRANSWIN LOGISTICS SOLUTIONS, notre organisme d'accueil, ainsi qu'à l'exposé du cadre global de la mission de stage qui m'a été confiée.
+
+Nous commencerons par retracer l'historique et l'évolution de l'entreprise, en mettant en lumière ses pôles d'expertise et son positionnement stratégique sur le marché du transport et de la logistique au Maroc. Par la suite, nous détaillerons les objectifs du stage, les méthodologies employées durant cette période d'immersion professionnelle, ainsi que les enjeux auxquels TRANSWIN LOGISTICS SOLUTIONS souhaite répondre à travers cette initiative de modernisation numérique. Cette étape de contextualisation est essentielle pour comprendre la genèse du projet et les besoins réels du terrain.
+
+1. HISTORIQUE ET GENÈSE DE TRANSWIN LOGISTICS SOLUTIONS
+
+• Date de création : Fondée en 2015 à Casablanca par un collectif d'experts en transport et en logistique, animés par la volonté de transformer le paysage de la "Supply Chain" marocaine.
+• Contexte et motivations : Face à l’évolution rapide du secteur du transport routier de marchandises et aux défis logistiques du XXIᵉ siècle, TRANSWIN LOGISTICS SOLUTIONS se donne pour objectif de :
+   o Renforcer la capacité, la sécurité et la fiabilité du transport national et international ;
+   o Réinventer la gestion d'exploitation grâce à des solutions numériques innovantes (comme TRANSWIN e-OM) ;
+   o Devenir un pôle d'excellence opérationnelle au service des clients, des chauffeurs et des partenaires industriels.

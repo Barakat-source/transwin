@@ -1,0 +1,9 @@
+3. ÉTUDE DES SOLUTIONS EXISTANTES
+
+On constate de nos jours l’existence de multiples plateformes de gestion et de suivi de flotte (TMS/ERP), telles que SAP, Odoo, Oracle ou des solutions de géolocalisation spécialisées. Ces outils sont régulièrement employés pour le suivi des véhicules en ligne, la planification d'itinéraires et la gestion globale des parcs de transport. Néanmoins, ces plateformes présentent diverses limites :
+• Interface peu intuitive : certaines plateformes sont mal conçues et nécessitent un apprentissage préalable et approfondi pour que les exploitants sur le terrain puissent en tirer un profit total.
+• Fonctionnalités peu adaptées : les workflows de saisie et de suivi des ordres de mission y sont souvent trop rigides, standardisés et peu personnalisables pour s'adapter aux particularités des flux locaux (Import/Export).
+• Peu de traçabilité intégrée : le journal d'audit est basique, sans suivi automatisé et irréversible de chaque action critique effectuée par les différents utilisateurs.
+• Pas de tableaux de bord personnalisés : les données d'exploitation sont bien présentes, mais peu exploitées à travers des indicateurs de performance (KPI) interactifs et dynamiques pour l'aide à la décision.
+• Problèmes de sécurité des données : l'archivage numérique des justificatifs de livraison (Bons de Livraison, pesages) et la gestion granulaire des privilèges d'accès sont trop souvent complexes ou délaissés.
+Autant de limites qui constituent des occasions de poser un dispositif de spécialité, complet, répondant aux attendus des exploitants de transport et de la direction générale.

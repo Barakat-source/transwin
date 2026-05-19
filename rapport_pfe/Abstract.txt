@@ -1,0 +1,3 @@
+ABSTRACT
+This internship project focuses on the design and implementation of "TRANSWIN e-OM", a web platform dedicated to the digitalization and automation of mission order management for TRANSWIN LOGISTICS SOLUTIONS. Facing the limitations of manual management via Excel, this solution centralizes trip tracking, digitizes attachments (Delivery notes, weighing tickets), manages fleet maintenance alerts, and generates real-time decision-making statistics. Developed using PHP, MySQL, and Tailwind CSS, the application provides an ergonomic and secure interface, ensuring better traceability and optimization of the company's operational processes.
+Keywords: Digitalization, Logistics, Road Transport, Mission Order, PHP, MySQL, Maintenance.
