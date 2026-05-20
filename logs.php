@@ -1,4 +1,5 @@
 <?php
+session_start();
 require_once 'core/Database.php';
 $database = new Database();
 $db = $database->getConnection();
@@ -60,9 +61,9 @@ require_once 'includes/header.php';
                             <?php 
                             $icon = 'activity';
                             $color = 'text-slate-400';
-                            if (stripos($log['action'], 'créé') !== false) { $icon = 'plus-circle'; $color = 'text-emerald-500'; }
-                            if (stripos($log['action'], 'modifié') !== false) { $icon = 'edit-3'; $color = 'text-blue-500'; }
-                            if (stripos($log['action'], 'supprimé') !== false) { $icon = 'trash-2'; $color = 'text-red-500'; }
+                            if (stripos($log['action'], 'créat') !== false || stripos($log['action'], 'creation') !== false) { $icon = 'plus-circle'; $color = 'text-emerald-500'; }
+                            if (stripos($log['action'], 'modif') !== false) { $icon = 'edit-3'; $color = 'text-blue-500'; }
+                            if (stripos($log['action'], 'suppr') !== false) { $icon = 'trash-2'; $color = 'text-red-500'; }
                             ?>
                             <i data-lucide="<?= $icon ?>" class="w-5 h-5 <?= $color ?>"></i>
                         </div>

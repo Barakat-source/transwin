@@ -1,4 +1,5 @@
 <?php
+session_start();
 require_once 'core/Database.php';
 $database = new Database();
 $db = $database->getConnection();
@@ -62,6 +63,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $remorque_type,
             $id
         ]);
+
+        // Enregistrer le véhicule s'il n'existe pas
+        $stmtVehicule = $db->prepare("INSERT IGNORE INTO vehicules (matricule) VALUES (?)");
+        $stmtVehicule->execute([$matricule]);
 
         // Log activity
         require_once 'core/Logger.php';

@@ -359,7 +359,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                     $ext = strtolower(pathinfo($v['attachment_path'], PATHINFO_EXTENSION));
                                     $isImage = in_array($ext, ['jpg', 'jpeg', 'png', 'gif']);
                                 ?>
-                                <button @click="previewUrl = '<?= $v['attachment_path'] ?>'; previewType = '<?= $isImage ? 'image' : 'other' ?>'" 
+                                <button @click.stop="previewUrl = '<?= $v['attachment_path'] ?>'; previewType = '<?= $isImage ? 'image' : 'other' ?>'" 
                                         class="w-8 h-8 rounded-lg bg-emerald-50 text-emerald-500 hover:bg-emerald-500 hover:text-white flex items-center justify-center transition-all shadow-sm" title="Voir PJ">
                                     <i data-lucide="paperclip" class="w-4 h-4"></i>
                                 </button>
