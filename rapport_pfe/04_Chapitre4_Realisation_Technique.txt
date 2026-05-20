@@ -132,14 +132,25 @@ o Utilités dans le projet :
 o Lien officiel de téléchargement :
 • https://code.visualstudio.com/
 
-➢ Git & GitHub
+➢ Git
 o Définition :
-Git est un système de contrôle de version distribué open-source, tandis que GitHub est une plateforme d'hébergement web pour le développement de logiciels utilisant Git.
+Git est un système de contrôle de version distribué, open-source et gratuit, conçu pour gérer l'historique de développement de projets logiciels de toutes tailles avec rapidité et efficacité.
 o Utilités dans le projet :
-• Suivi de l'historique des modifications apportées au code source.
-• Sauvegarde sécurisée du projet sur un dépôt à distance et collaboration fluide.
+• Suivi rigoureux de l'historique de toutes les modifications apportées au code source de l'application.
+• Gestion locale des révisions, permettant de revenir à des versions antérieures en cas d'erreur ou d'incompatibilité.
+• Facilitation de la création de branches pour le développement isolé de nouvelles fonctionnalités (comme le module de maintenance ou d'audit).
 o Lien officiel de téléchargement :
-• https://git-scm.com/ / https://github.com/
+• https://git-scm.com/
+
+➢ GitHub
+o Définition :
+GitHub est une plateforme d'hébergement web et de gestion de développement logiciel basée sur le cloud, qui utilise Git pour le contrôle de version. Elle offre une interface graphique conviviale et des outils de collaboration.
+o Utilités dans le projet :
+• Hébergement et sauvegarde sécurisée du code source sur un dépôt distant accessible en ligne.
+• Centralisation du projet pour simplifier le partage du code et la démonstration aux examinateurs ou tuteurs du PFE.
+• Suivi des révisions à distance et synchronisation automatique avec le référentiel local de développement.
+o Lien officiel d'accès :
+• https://github.com/
 
 2. ARCHITECTURE DE L'APPLICATION ET MODULES CLÉS
 
