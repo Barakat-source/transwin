@@ -1,9 +1,0 @@
-INTRODUCTION GÉNÉRALE
-
-S’inscrivant dans une mutation numérique du domaine du transport et de la logistique, les sociétés de transport et acteurs logistiques manifestent un intérêt grandissant pour des solutions novatrices pour optimiser la gestion des ordres de mission, le suivi de la flotte et des flux de marchandises. La numérisation de ces processus de gestion permet, d’une part, de sécuriser la traçabilité des opérations entre l'exploitation et les chauffeurs, et d’autre part, d'améliorer la qualité du service, tout en facilitant le suivi administratif et technique des ressources.
-
-Le projet TRANSWIN e-OM participe à cet effort de transformation et propose une plateforme intégrée, disponible sur le web, développée sur des technologies modernes telles que PHP 8, MySQL et Tailwind CSS, permettant de gérer la planification, la distribution, la collecte documentaire et le suivi des missions de transport. Cette solution fournit les outils d’analyse de performance, mais aussi les tableaux de bord en temps réel pour tous les utilisateurs du service exploitation.
-
-Ce rapport présente le cadre et les enjeux du projet TRANSWIN e-OM développé au sein de TRANSWIN LOGISTICS SOLUTIONS, ainsi que les étapes de sa conception et de son implémentation technique. Les objectifs, les méthodologies employées, ainsi que les résultats obtenus seront exposés de manière détaillée afin d’illustrer les apports et les perspectives de cette initiative numérique au service de l'efficacité logistique.
-
-"La véritable technologie logistique ne remplace pas l'exploitant, mais lui donne les moyens d'être plus efficace."

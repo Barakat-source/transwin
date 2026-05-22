@@ -1,7 +1,0 @@
-REMERCIEMENTS
-Au terme de ce travail, je tiens à exprimer ma profonde gratitude et mes sincères remerciements à toutes les personnes qui ont contribué, de près ou de loin, à la réussite de mon projet de stage.
-Je tiens tout d'abord à remercier tout particulièrement mon encadrant de stage, Monsieur BAAZZOUZ Abdessalam, pour sa disponibilité, sa patience, ses précieux conseils et la confiance qu'il m'a accordée tout au long de cette période. Ses orientations techniques et ses critiques constructives ont été déterminantes pour l'aboutissement de ce projet.
-Mes remerciements s'adressent également à la direction de TRANSWIN LOGISTICS SOLUTIONS, pour m'avoir accueilli au sein de leur structure et m'avoir offert l'opportunité de travailler sur un sujet aussi passionnant que la digitalisation des ordres de mission.
-Je tiens également à remercier l'ensemble du personnel de l'entreprise pour leur accueil chaleureux, leur collaboration et pour m'avoir facilité l'accès aux informations nécessaires à la réalisation de ce travail.
-Enfin, je remercie mes professeurs et l'ensemble de l'équipe pédagogique de mon institution pour la qualité de l'enseignement qu'ils m'ont prodigué, ainsi que les membres du jury qui me font l'honneur de juger ce travail.
-À tous, merci infiniment.
