@@ -154,9 +154,11 @@ require_once 'includes/header.php';
                                 <?php endif; ?>
                             </td>
                             <td class="px-6 py-6 text-right">
-                                <button class="p-2 text-slate-400 hover:text-primary-600 hover:bg-primary-50 rounded-lg transition-all">
-                                    <i data-lucide="refresh-cw" class="w-5 h-5"></i>
-                                </button>
+                                <div class="flex items-center justify-end gap-2">
+                                    <a href="edit_vehicule.php?id=<?= $v['id'] ?>" class="w-8 h-8 rounded-lg bg-emerald-50 text-emerald-500 hover:bg-emerald-500 hover:text-white flex items-center justify-center transition-all shadow-sm" title="Mettre à jour">
+                                        <i data-lucide="refresh-cw" class="w-4 h-4"></i>
+                                    </a>
+                                </div>
                             </td>
                         </tr>
                         <?php endforeach; ?>

@@ -182,7 +182,6 @@ require_once 'includes/header.php';
             </div>
         </div>
         </div>
-</div>
 
 <!-- Statistics Section -->
 <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-10">
@@ -378,6 +377,7 @@ document.addEventListener('DOMContentLoaded', function() {
             </tbody>
         </table>
     </div>
+</div>
 </div>
 
 <?php require_once 'includes/footer.php'; ?>

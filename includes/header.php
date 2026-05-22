@@ -76,6 +76,37 @@ if (!isset($_SESSION['user_id']) && $currentFile !== 'login.php' && $currentFile
             .input-premium { @apply w-full bg-slate-50 border border-slate-200 rounded-2xl px-5 py-4 focus:bg-white focus:ring-4 focus:ring-primary-500/10 focus:border-primary-500 transition-all outline-none font-medium text-sm; }
         }
     </style>
+
+    <!-- Print Stylesheet -->
+    <style>
+        @media print {
+            aside,
+            .lg\:hidden,
+            button,
+            #searchForm,
+            [x-show="showFilters"],
+            .btn-premium,
+            th:last-child,
+            td:last-child,
+            .no-print {
+                display: none !important;
+            }
+            
+            .lg\:ml-72 {
+                margin-left: 0 !important;
+            }
+            
+            body {
+                background-color: white !important;
+                background-image: none !important;
+            }
+            
+            .card-premium {
+                border: none !important;
+                box-shadow: none !important;
+            }
+        }
+    </style>
 </head>
 <body class="min-h-screen" x-data="{ mobileMenu: false }">
     
